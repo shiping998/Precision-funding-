@@ -1,0 +1,14 @@
+body{
+    padding: 70px;
+}
+header,footer,nav,div,section,aside,article{
+    border:0 dotted #0f0f0f;
+    border-radius: 5px;
+
+}
+a,a:hover{
+    text-decoration: none;
+}
+.divContent{
+    min-height: 350px;
+}
